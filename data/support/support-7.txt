@@ -1,0 +1,2 @@
+Why do I see a 7zip error post upgrade?
+After upgrading from previous versions of GPM to version 12.0.1, a popup may appear once the installer window closes regarding 7Zip. The error states "This program might not have installed correctly". If you see this window, it is nothing to be concerned about. Simply click on the "This program installed correctly" option to proceed.

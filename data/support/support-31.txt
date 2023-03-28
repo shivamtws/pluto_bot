@@ -1,0 +1,8 @@
+Why does my session have no data?
+There are multiple reasons why a session may not be displaying any data. The most common reasons are:
+
+Limited user interaction during the session or a portion of time during the session causing flatline graph data.
+The Goliath Agent is either not connected or not installed.
+Minimum graph sizing is 1 hour, if a session is under an hour there may be partial graph lines only.
+The session was too short ( < 2 mins) to collect and reports Session RTT, Network Latency, Connection Speed).
+When a session is from a timeframe where the auto purge was run.

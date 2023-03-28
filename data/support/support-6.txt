@@ -1,0 +1,4 @@
+Master Agent & IIS
+Are there any options from a technical stand point that can be done to accomodate a Master Agent architecture situation using an existing VM that already has IIS sites running?
+
+No, at this point we do not support shared IIS and have encountered issues with this in the past. Master Agent, like the GPM Server, must have dedicated IIS.

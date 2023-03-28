@@ -1,0 +1,4 @@
+Why am I getting logged out?
+Goliath Performance Monitor refreshes many pages and dialogs automatically, but to refresh a  page manually, use the built-in Refresh option on the page (as seen at the top of the page in the example figure, below).
+
+If you use the browser refresh option, you will be required to log back in to the application.

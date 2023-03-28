@@ -1,0 +1,4 @@
+Does the Goliath Agent push data to the Goliath Server?
+Question: How does the Goliath Agent and GPM Server communicate? Does the Goliath Agent push data to the GPM server or does the GPM Server pull data from the agent? or Both?
+
+Answer: The GPM Server tells the agents what to monitor and collect. For example, when the Goliath Agents initially connects to the GPM Server or if Monitoring Rules change, etc. The Goliath Agents run independently and push data to GPM.

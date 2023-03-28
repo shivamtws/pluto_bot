@@ -1,0 +1,6 @@
+Why did my Logon Duration time change?
+Issue
+After a session is initially added and displayed within GPM's session view page, after a few minutes, the logon time changes.
+
+Explanation
+When GPM first collects metrics from Citrix, if the logon time is not available, GPM will calculate the logon duration using logon event data and display this value. GPM will continue to retry to collect the data using its primary method, though, and when the data is available, the logon time will be updated for the session.

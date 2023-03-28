@@ -1,0 +1,31 @@
+Automatically Collect, Correlate, and Interpret End User Experience Data IT Pros can now troubleshoot and document remote worker issues on Citrix and VMware Horizon
+
+Goliath’s latest release introduces new visualizations that interpret end user experience data on Citrix and VMware Horizon. See what is new below and if you would like to learn more just email techinfo@golaithtechnologies.com.
+
+End-User Experience Scorecard Benchmark your end user experience against industry standards with Goliath’s new Citrix End User Experience Scorecard.
+
+End-User Productivity Report See who is using Citrix, when and how with Goliath’s End User Productivity Report.
+
+Features to troubleshoot remote worker issues:   ICA/HDX Performance Degradation Indicators Goliath helps IT Pros interpret end user experience metrics, clearly indicating in this example if ICA/HDX virtual channels are exceeding industry best practice thresholds. You no longer need to be a Citrix expert to interpret metrics proving the root cause of poor performance.
+
+ICA/HDX Channel Drill Down View granular data around the ICA/HDX virtual channels for an end user session to prove if poor performance is due to network, home office, or even user behavior such as using audio, video, or 3rd party peripheral devices.
+
+“Connected Via” Column Filter user sessions to differentiate remote workers from those on-site.
+
+New Report Management Enhanced report management makes it even easier to share performance metrics with management, other IT teams, vendors, and end users.
+
+New VMware Horizon Reports See who is using VMware Horizon, when, and how.
+
+Citrix Cloud Connector Module Goliath’s industry-first Citrix Cloud Connector Module not only the health of the entire Citrix Cloud infrastructure but all Cloud Connectors.
+
+Microsoft Teams Module Goliath’s proactive monitoring of Microsoft Teams alerts you of performance issues and takes automatic remediation actions before users are impacted.
+
+About Goliath Technologies Goliath Technologies enhances end user experience by enabling proactive IT. Our end user experience management, monitoring, and troubleshooting products leverage embedded intelligence and automation to proactively identify events and conditions that cause performance issues and resolve them automatically with self-healing capabilities before end users are impacted. Armed with our portfolio of software solutions, IT Pros can deliver a seamless end user experience regardless of where workloads, applications, or users are located. Customers include Universal Health Services, Ascension, CommonSpirit Health, Penn National Insurance, American Airlines, Liberty Mutual, Bell Canada, Xerox, HCL, and others. 
+
+Continue Your Research on How to Isolate and Prove Root Cause of End User Experience Issues
+
+Top 5 Airline Uses Goliath’s Application Availability Testing as a Service with AWS Monitoring
+
+Deliver Great Remote User Experience on Citrix Workspace
+
+Citrix & Epic Issues Prevented Before Impacting 25,000 Users

@@ -1,0 +1,4 @@
+VMware Horizon: Why am I not seeing RTT and BW in Apps & RDS Desktop session display?
+ 
+
+Both Round Trip Time (RTT) and Bandwidth (B/W) are displayed for connected sessions, only. These metrics are not available to be displayed for historical sessions. This can be derived by reviewing the Status column to see if the session is CONNECTED or not. If the session is DISCONNECTED or LOGGED OFF the empty columns are expected.

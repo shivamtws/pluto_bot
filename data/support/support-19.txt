@@ -1,0 +1,10 @@
+Why is ICA RTT or Network Latency data missing?
+On the Citrix Virtual Apps and Desktops session drill drown, Goliath presents the metrics ICA RTT and Network Latency. When these charts are showing no data, this indicates the required end user metrics that are used to calculate activity were not available. This can be due to multiple issues:
+
+- Citrix XenApp/XenDekstop 6.5 does not include End User Experience Metrics and therefore is not supported for the report. Citrix version 7.x or later is required.
+- The Citrix Receiver/Workspace version does not support the required metrics, for example older versions of Citrix Receiver/Workspace
+- Known issue with later versions of Citrix Workspace App for Mac do not include the end user experience metrics in some cases. This is a known issue that Citrix is aware of. From our experience with customers, we saw that versions 20.0 to 20.06 had issues that were resolved in version 20.07 and newer
+- Known issue with versions of Citrix Workspace App for Android & Linux do not include the end user experience metrics in some cases. We recommend opening a ticket with Citrix as ICA RTT data will also be missing in Citrix Director.
+- DCR is enabled or when Windows Server 2012 with Legacy Mode is being used.
+- The Citrix End User Experience Monitoring Service can become stalled and should be restarted on the Citrix server.
+- There was no activity inside the session (for example keyboard & mouse usage)

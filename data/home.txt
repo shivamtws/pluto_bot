@@ -1,0 +1,173 @@
+Solutions Provided by Goliath Technologies as follows:
+
+    - Monitor & Troubleshoot End User Experience Issues software
+    Goliath Technologies offers end user experience monitoring and troubleshooting software, with embedded intelligence and automation, that enables IT pros to anticipate, troubleshoot, and prevent performance issues regardless of where workloads, applications, or users are located. 
+
+    - End-User Monitoring & Troubleshooting
+        - Monitor Citrix 
+        - Monitor Citrix Cloud 
+        - Monitor VMWare 
+        - Monitor Microsoft 
+        - Monitor ChromeOS 
+        - Infrastructure
+
+    - Cloud Monitoring
+    - Goliath Application Availability Monitor
+        - Citrix XenApp / XenDesktop 
+        - Cerner Millennium 
+        - Cerner Patient Portal 
+        - Epic 
+        - MEDITECH 
+        - Allscripts 
+        - Microsoft RDS 
+        - VMware Horizon
+
+    - Goliath Application Monitoring
+        -Epic 
+        - Cerner 
+        - MEDITECH 
+        - Allscripts
+
+    - Reporting & Analytics 
+    - Goliath Care Services
+
+
+- Goliath in Healthcare
+    - Cerner EHR 
+    - Epic EHR 
+    - MEDITECH EHR 
+    - Allscripts
+
+- Pricing
+You need to get a custom quote by filling at form at https://goliathtechnologies.com/resources/pricing/
+
+- Resources
+    - Learn
+        - Client Stories 
+        - Technical Guides 
+        - Blog 
+        - Value to IT Teams 
+        - Video Library 
+        - Live Webinars 
+        - On-Demand Webinars 
+        - Infographics
+    - Technology
+        - Value to IT Teams 
+        - Performance Reports 
+        - Advanced Reports 
+        - Real-Time Dashboards
+    - Product
+        - Product Training 
+        - Partners/Resellers 
+        - Pricing Options
+
+- Company
+    - About Goliath Technologies 
+    - MSPs 
+    - Customers 
+    - Management Team 
+    - Careers 
+    - Media Library 
+    - Equity Partnership 
+    - Contact Us
+
+
+THE HEALTH IT STANDARD: SEE HOW THOUSANDS OF HEALTHCARE FACILITIES USE GOLIATH TO IMPROVE CLINICIAN EXPERIENCE
+
+END-USER EXPERIENCE MONITORING & TROUBLESHOOTING Industry leading end-user experience monitoring and troubleshooting software, with embedded intelligence and automation, that enables IT pros to anticipate, troubleshoot, and document performance issues regardless of where workloads, applications, or users are located.
+
+
+“Using Goliath is like adding a full-time team of Citrix troubleshooting experts working 24/7/365 to prevent and resolve end-user experience issues.”
+
+Trusted by leading organizations around the world
+
+“I use Goliath daily to quickly troubleshoot and resolve end-user complaints around slow logons and poor performance with Cerner applications delivered via Citrix. What had previously taken me hours to hunt down the root cause, now takes me minutes with Goliath.” Greg Beck, System AdministratorCGH Medical Center
+
+“Our Level 1 Service Desk supports all of our Citrix managed services clients. With Goliath, the team resolves 9 out of 10 performance issues, avoiding escalations to our Level 3 Citrix architects.” Mark Gigliotti, CIOTerralogic
+
+“We selected Goliath Technologies because their end-user experience monitoring and management supports Cerner and identifies systems degrading before physicians are impacted. We do over 15,000 Cerner application test launches per day. This early warning system coupled with enhanced performance data and analysis puts us in a better position to collaborate with Cerner to resolve issues.” Mike Nelson, Sr. VP, Strategic ServicesUniversal Health Services
+
+“Goliath provides end-to-end visibility across the entire Citrix delivery infrastructure and enables us to quickly isolate the root cause of performance issues, identifying who in IT can help resolve the issue quickly.” Vitaly Petrovsky, Manager of Enterprise ApplicationsMaimonides Medical Center
+
+  HOW GOLIATH WORKS Goliath provides actual user experience from the end users perspective. Traditional approaches look at the independent performance of IT infrastructure and applications. This means they must infer end user experience and that causes unproductive communication and increases time to resolution.
+
+Built for troubleshooting
+
+Isolating the root cause has never been this easy
+
+Goliath automatically correlates performance data from various sources across the infrastructure including hypervisors, servers, operating systems, and applications to quickly identify where a problem occurs and isolate root cause. Allowing anyone on your technical team to quickly resolve even the most complicated logon initiation, logon duration, and session performance issues.
+
+Deep API Integration & Automatic Correlation Logon Process Drill Down Alert Resolution Instructions Threshold Interpretation Intelligence Unique End User Experience Metrics
+
+SEE A DEMO
+
+“Citrix gets a bad reputation as being blamed for everything, but the underlying issue rarely has anything to do with Citrix. Goliath provides end-to-end visibility across the entire Citrix delivery infrastructure and enables us to quickly isolate root cause of performance issues.” Vitaly Petrovsky, Manager of Enterprise ApplicationsMaimonides Medical Center
+
+Industry-Only Scorecards
+
+Prove your end user experience against industry standards​Benchmark your end user experience against industry standards with the most advanced Citrix and Horizon End User Experience Scorecards. With over 60 out-of-the-box reports, get complete insights into how your end users experience compares to industry best practices. With objective data, you can now report on to management with definitive proof of end user experience forensics.
+
+The report can be scheduled to run or executed on-demand and can be emailed, exported (PDF, CSV), or viewed directly within the Goliath interface.
+
+
+“The end user experience data has driven great conversations around our culture and work styles. We have the insights and visibility we never had before.” Michael Pfaeffle, Senior Vice President and CIO, Empire Office
+
+#1 Choice for Healthcare IT Teams
+
+Purpose-Built Modules for All Major EHR Applications
+
+Proactively troubleshoot and fix end user performance issues and provide uninterrupted access to all major EHR and business-critical applications (Cerner, Epic, Meditech and more). Reduce ongoing performance and end user experience issues with the only software purpose-built to bring together metrics measuring EHR performance, end user experience, and the underlying delivery infrastructure performance. Healthcare IT professionals can now troubleshoot and resolve issues quickly and effectively. Ensuring that patient records are always available.
+
+
+Partnering with technology leaders togive you unparalleled visibility into your users experience 
+
+Explore Further
+
+Goliath Technologies Launches Intelligent Cloud Monitoring Solution
+
+Partnerships with Oracle and Google help drive record growth in 2022
+
+Goliath Appoints Shawn Brady as Chief Revenue Officer
+
+Try Goliath For Free by following https://goliathtechnologies.com/free-trial/
+
+Experience true end-user experience monitoring and troubleshooting free for 30 days.
+
+
+Some Useful links are as follows:
+
+- Company
+    - About Goliath (https://goliathtechnologies.com/about-goliath/)
+    - Careers (https://goliathtechnologies.com/careers/)
+    - Contact (https://goliathtechnologies.com/contact-us/)
+    - Customers (https://goliathtechnologies.com/company/clients/)
+    - Support (https://goliathtechnologies.com/support/)=
+
+
+- Information
+    - Media Library (https://goliathtechnologies.com/media-library/)
+    - Dashboards (https://goliathtechnologies.com/resources/dashboards/)
+    - Privacy Policy (https://goliathtechnologies.com/privacy/)
+    
+
+- Community
+    - Goliath Blog (https://goliathtechnologies.com/blog/)
+    - Contact Us (https://goliathtechnologies.com/contact-us/)
+
+- Learning
+    - Live Webinars (https://goliathtechnologies.com/webinar/live/)
+    - On-Demand Webinars (https://goliathtechnologies.com/webinar/on-demand/)
+    - Independent Reviews (https://goliathtechnologies.com/resources/independent-product-reviews-of-goliath-technologies/)
+
+- Find us on
+    - https://goliathtechnologies.com/software/goliath-performance-monitor/citrix/
+    - https://www.linkedin.com/company/goliath-technologies-llc/
+    - https://www.youtube.com/channel/UCXO185s7yQbVi231uL4bGOw
+
+
+
+Disclaimer: All brands, logos or product information mentioned here are the registered trademarks of their respective owners.
+
+Designed and Hosted by Telemitra Inc |©2021 Goliath Technologies. All Rights
+
+©2022 Goliath Technologies. All Rights Reserved.

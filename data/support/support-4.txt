@@ -1,0 +1,18 @@
+Check your SQL Server Port
+Goliath Performance Monitor (GPM) uses Microsoft SQL Server for its database backend. During the installation process, if no SQL Server port is provided, GPM assumes that communication to SQL Server will be done via SQL's default static port of TCP 1433. To confirm if your SQL Server is using the default port or a custom port, please follow the steps below.
+
+
+SQL Port Determination:
+
+Connect to the SQL Server
+- Open SQL Server Configuration Manager from the start menu
+- Go to Network Configuration
+- Click the SQL instance for which you want to check SQL port
+- Right click on TCP/IP and select Properties
+- A new window will open, click on the IP Address tab
+- Scroll to the bottom of the window to see the section IPALL
+
+Note if the value defined in the TCP Port or TCP Dynamic Ports fields, as applicable, is different from the default value of 1433
+ 
+
+For more options on how to determine your SQL Server port please see https://www.sqlshack.com/overview-of-sql-server-ports/ 

@@ -1,0 +1,4 @@
+Can GAAM emulate an RDS thin-client logon?
+Can Goliath Application Availability Monitor (GAAM) emulate a thin-client logon for RDS?
+
+No, GAAM can only run on a thick/full windows OS. 

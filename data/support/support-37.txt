@@ -1,0 +1,7 @@
+Why is my launch failing for VMware Horizon domain authentication?
+VMware Horizon Client Domain Authentication Issues
+Goliath is aware of an issue when using Goliath Application Availability Monitor in a VMware Horizon deployment where our API calls for launching a session fail surrounding Domain Authentication.
+
+The VMware Horizon client will show: "You are not entitled to that desktop or application" while logging in manually to the VMware Horizon client with the same credentials Goliath Application Availability Monitor uses is successful.
+
+Goliath will update this KB article as additional information becomes available.

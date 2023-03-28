@@ -1,0 +1,27 @@
+Monitoring your Chromebooks School System Edition
+
+by Theresa Miller, Citrix CTP & Microsoft MVP
+
+Major vendors have been doubling down on their investment in Chromebooks, and that effort has paid off — they’ve consistently seen strong returns thanks to the platform’s wide adoption globally. Source (2021).  Additionally, as we consider school system adoption for students and educators being a common use case it leaves me wondering how monitoring of these devices is being prioritized considering they are extremely mobile, going home with students and educators daily to complete and/or grade assignments at home.  Today let’s take a closer look at Chromebook use within schools, break down the challenges that come with that for device monitoring, and review some best practices for monitoring. What is the challenge, really? As a parent with students at home that use Chromebooks for their homework, I see the potential misuse that can happen.  Students were raised in a digital age, and they want to use these devices for everything.  So not only are they portable and can end up anywhere; they contain sensitive information such as schoolwork, teacher names, and more.  They need to be monitored for performance, but also security vulnerabilities that may loom in this heightened threat landscape that enterprise’s function in.  Unraveling the layers shows that monitoring these devices is business critical.
+
+Breaking it down Let’s get more detailed now on the challenges and why it really matters, breaking down further where the value of Chromebook monitoring becomes a must have.
+
+Student risk – The internet puts students at larger risk for exposure to inappropriate content. With their desire to try to use the devices for everything, monitoring content and appropriate blocking must happen and be implemented to protect the students.
+
+Device performance – These devices, while they typically come with a lower compute and lower cost option, still require performance monitoring. Making sure the system speed is optimal will ensure students can get their work done without distraction and in a timely manner.
+
+Education as an enterprise – Sometimes when we think about the education system, we forget that it is a business just like any other. Appropriate device and security monitoring should be an implementation standard.
+
+For all these reasons, we need to ensure that device monitoring be implemented and leveraged to understand what is going on with these education system devices.  Now let’s dive into some monitoring best practices.
+
+Monitoring Chromebooks best practices checklist Understanding what to monitor matters to ensure that the information you are reviewing is accurate and relevant to business success.  Here is my checklist:
+
+Performance monitoring: Be sure to implement monitoring that will ensure that your hardware is working in a top-notch fashion.
+
+Security and Software policies: Security and risk come in a couple different ways. Protecting the student from the things they shouldn’t be able to access, while also ensuring that the latest viruses, malware, and security threats do not impact the device or teacher/student data.  Proper software deployment is critical to ensuring devices are secure and safe.
+
+Device Management: Make sure all Chromebooks are registered with a mobile device management system to ensure they follow your security standards and software policies.  This should also allow you to reset a device should it be stolen or lost.
+
+Getting these three critical best practice layers in place will ensure a stable and safe Chromebook deployment.
+
+Concluding thoughts Chromebooks in education are the common deployment choice for these enterprises due to being a low-cost option that is simple for students to use.  Today we took a closer look at the common challenges, dove into the best practices around management, and proved that monitoring is not optional – it is a necessity.  

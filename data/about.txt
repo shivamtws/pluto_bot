@@ -1,0 +1,30 @@
+- About Goliath Technologies
+
+    We enable IT Pros to Proactively Monitor and Troubleshoot End User Experiences.
+
+    At Goliath, we are passionate about helping IT Pros reduce the pain associated with managing hybrid IT environments along with end user experiences. We offer end user experience monitoring and troubleshooting software, with embedded intelligence and automation, that enables IT pros to anticipate, troubleshoot, and document performance issues regardless of where IT workloads, applications, or users are located. Our initial offerings focused on helping IT pros monitor and troubleshoot end user experiences across their desktop virtualization infrastructure leveraging Citrix or VMware Horizon. We have now expanded this foundation to offer similar capabilities across endpoints, web-based applications, and cloud infrastructures (Amazon Web Services (AWS), Microsoft Azure, and Google Cloud). Clients tell us when they use Goliath, it has the operational impact of hiring 3 full-time troubleshooting experts. The reason for that is with our embedded intelligence we automatically discover what to monitor, the thresholds to set, and then alert when those thresholds are exceeded across all common IT elements, conditions, and failure points.
+
+
+- The Standard in Health IT
+
+    Our unmatched capabilities also make us the standard in Health IT. We offer purpose-built EHR modules for Allscripts, Epic Hyperspace, Cerner Millennium, and MEDITECH Advantage and Magic. Our modules integrate metrics from the EHR application, the end user experience, and the Citrix/VMware Horizon delivery infrastructure into a single console and view. This makes it easy for IT Pros to quickly isolate root cause of performance issues, resolve them, and prevent them from happening in the future.
+
+- Helping Clients Succeed
+
+    “We selected Goliath Technologies because their end-user experience monitoring and management supports Cerner and identifies systems degrading before physicians are impacted. We do over 15,000 Cerner application test launches per day. This early warning system coupled with enhanced performance data and analysis puts us in a better position to collaborate with Cerner to resolve issues.” Mike Nelson, Sr. VP, Strategic Services Universal Health Services
+
+    “Goliath helps find the true root cause of end-user experience performance problems by using data to identify what specific component is impacting the provider experience so it can be resolved quickly and provide a better overall user experience.” Chris Vernaci, VP and Partner Cerner Corporation
+
+    “Citrix gets a bad reputation as being blamed for everything, but the underlying issue rarely has anything to do with Citrix. Goliath provides end-to-end visibility across the entire Citrix delivery infrastructure and enables us to quickly isolate root cause of performance issues, identifying who in IT can help resolve the issue quickly.” Vitaly Petrovsky, Manager of Enterprise Applications Maimonides Medical Center
+
+- Partner Certifications
+    - Citrix Ready
+    - VMware Ready
+    - IGEL Ready
+
+- Recent Awards
+    - 2020 Healthiest Employers Winner
+    - CIOLOOK
+    - Virtualization Solution provider 2020
+    - Industry Era : 10 Best CEO of 2020
+    - Thomas Chariton

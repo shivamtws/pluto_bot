@@ -1,0 +1,6 @@
+Why do i see no logon duration data?
+There are multiple reasons why a session may not be reporting any logon duration data. The most common reasons are the following:
+
+If any stage or duration took less than .001ms, the measurement does not register a valid value.
+If a substage is not configured as part of log on duration then it will not be displayed.
+Reconnected sessions will not show all stages (because not all stages occur during a reconnect).

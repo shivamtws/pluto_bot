@@ -1,0 +1,4 @@
+Goliath access to multiple Active Directory Groups
+Question: I have given Goliath access to multiple Active Directory Groups. If a user is in multiple of those groups, which groups privileges will Goliath give the user?
+
+Answer: Goliath will validate against the groups in alphabetical order. For Example, if you give "Domain Admins" full rights and then "Test Users" read only and a user is a member in both groups, since D comes before T, Goliath will check if the user is a member of Domain Admins first, if so then it will stop checking other groups and just sign the user in with the domain admin rights. 

@@ -1,0 +1,19 @@
+Industry First Citrix Cloud Connector Module
+
+Goliath Technologies Monitors Health of the Citrix Cloud Infrastructure and Cloud Connectors
+
+Radnor, PA – April 20, 2021 – Goliath Technologies, a leader in end user experience monitoring and troubleshooting software, announced today they are introducing the industry’s first Citrix Cloud Connector Module. This new module monitors not only the health of the entire Citrix Cloud infrastructure but all Cloud Connectors as well. This support expands upon Goliath’s existing capabilities to monitor and troubleshoot on-premises workloads as well as those hosted in the cloud on Amazon Web Services (AWS) and Microsoft Azure.
+
+“Other solutions on the market simply use standard APIs to monitor Citrix Cloud,” shares Stacy Leidwinger, CMO of Goliath Technologies. “With our Citrix Cloud Connector Module, we have taken a more holistic approach, focusing on the end user experience. We proactively alert IT anytime end user experience is negatively impacted, looking at all IT elements whether they reside in Citrix Cloud, the supporting infrastructure on-premises, or hosted in AWS or Azure, as well as the Cloud Connectors.”
+
+Goliath’s Citrix Cloud Connector Module automatically discovers and maps an organization’s entire Citrix Delivery Infrastructure, including Citrix Cloud and Cloud Connectors. Goliath’s embedded intelligence identifies all potential events, conditions, and failure points that could negatively impact performance. Using industry best practices, Goliath alerts IT anytime performance thresholds are exceeded.   To request a demo or for more details, email techinfo@goliathtechnologies.com.
+
+About Goliath Technologies Goliath Technologies enhances end user experience by enabling proactive IT. Our end user experience management, monitoring, and troubleshooting products leverage embedded intelligence and automation to proactively identify events and conditions that cause performance issues and resolve them automatically with self-healing capabilities before end users are impacted. Armed with our portfolio of software solutions, IT Pros can deliver a seamless end user experience regardless of where workloads, applications, or users are located. Customers include Universal Health Services, Ascension, CommonSpirit Health, Penn National Insurance, American Airlines, Liberty Mutual, Bell Canada, Xerox, HCL, and others. Learn how we Power Proactive IT at goliathtechnologies.com.
+
+Continue Your Research on How to Isolate and Prove Root Cause of End User Experience Issues
+
+Top 5 Airline Uses Goliath’s Application Availability Testing as a Service with AWS Monitoring
+
+Deliver Great Remote User Experience on Citrix Workspace
+
+Citrix & Epic Issues Prevented Before Impacting 25,000 Users

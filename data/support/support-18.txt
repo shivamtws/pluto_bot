@@ -1,0 +1,4 @@
+Why is my Network Latency is blank in the Server Health Report?
+Question: Why is my Network Latency is blank in the Server Health Report?
+
+Answer: The XenApp Servers Network latency is determined by the response time of a ping check. In order for this metric to appear in the report you must have PING monitoring enabled on your XenApp Servers. See the article PING Monitoring for full instructions on how to configure.
