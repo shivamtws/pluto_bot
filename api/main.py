@@ -1,13 +1,25 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import os
 import tiktoken
 import json
 from starlette.exceptions import HTTPException
+from config import settings
 
 from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTSimpleVectorIndex, LLMPredictor, PromptHelper
 
 app = FastAPI()
+
+origins = ["*"]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Model Definition
 class Message(BaseModel):
@@ -27,6 +39,8 @@ def handle_exception(request, exc):
 
 # Get Open API Key
 def get_open_api_key():
+    if os.environ.get('OPENAI_API_KEY') == None:
+        os.environ['OPENAI_API_KEY'] = settings.OPENAI_API_KEY 
     open_key = os.environ.get('OPENAI_API_KEY')
     if open_key == None:
         raise HTTPException(status_code=500, detail="Open Api Key is Missing.")
