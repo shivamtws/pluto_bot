@@ -40,7 +40,7 @@ def handle_exception(request, exc):
 # Get Open API Key
 def get_open_api_key():
     if os.environ.get('OPENAI_API_KEY') == None:
-        os.environ['OPENAI_API_KEY'] = settings.OPENAI_API_KEY 
+        os.environ['OPENAI_API_KEY'] = settings.open_ai 
     open_key = os.environ.get('OPENAI_API_KEY')
     if open_key == None:
         raise HTTPException(status_code=500, detail="Open Api Key is Missing.")
