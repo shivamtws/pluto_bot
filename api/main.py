@@ -103,6 +103,11 @@ async def prompt(data: dict):
     # TODO: Fetch From Redis
     # TODO: ADD Previous Conversation to the Request Message
 
+    messages.insert(0,  {
+            "content": "You have to act like as an AI bot who serves Goliath Technologies. You provide solutions regarding setting up Goliath products or troubleshooting them. You will provide best and concise answer. You can take reference from this website https://goliathtechnologies.com/",
+            "role": "system"
+        })
+
 
     # Check Tokens
     tokens = num_tokens_from_messages(messages)
@@ -118,7 +123,7 @@ async def prompt(data: dict):
     index = GPTSimpleVectorIndex.load_from_disk('index.json')
     query = json.dumps(messages, separators=(',', ':'))
     response = index.query(query, response_mode="compact")
-
+    # return response
     # Replace KIP: if includes in response
     kip_reply = response.response.replace("KIP:", "")
 
@@ -136,9 +141,9 @@ def check_insta_user(username: str):
     soup = BeautifulSoup(response.content, "html.parser")
     body = str(soup.find("body"))
     # Open a file for writing
-    # with open(username+".txt", "w") as file:
-    #     # Write the string to the file
-    #     file.write(body)
+    with open(username+".txt", "w") as file:
+        # Write the string to the file
+        file.write(body)
 
     if body is not None and (body.count('"meta":{"title":" ') ==1 or  body.count('"meta":{"title":null') ==1) :
         print("This Username Available and you can use it! :)")
