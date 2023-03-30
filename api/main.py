@@ -7,6 +7,12 @@ import json
 from starlette.exceptions import HTTPException
 from config import settings
 
+import requests
+from bs4 import BeautifulSoup
+
+# import the time module
+import time
+
 from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTSimpleVectorIndex, LLMPredictor, PromptHelper
 
 app = FastAPI()
@@ -116,11 +122,29 @@ async def prompt(data: dict):
     # Replace KIP: if includes in response
     kip_reply = response.response.replace("KIP:", "")
 
-
     return {
         'response': kip_reply
     }
 
+
+@app.get("/check-user")
+def check_insta_user(username: str):
+    tm = time.time()
+    url = f"https://www.instagram.com/{username}?t="+str(int(tm))
+    response = requests.get(url)
+    print(response.status_code)
+    soup = BeautifulSoup(response.content, "html.parser")
+    body = str(soup.find("body"))
+    # Open a file for writing
+    # with open(username+".txt", "w") as file:
+    #     # Write the string to the file
+    #     file.write(body)
+
+    if body is not None and (body.count('"meta":{"title":" ') ==1 or  body.count('"meta":{"title":null') ==1) :
+        print("This Username Available and you can use it! :)")
+        return {"isExists": True}
+    print("This Username has already been taken by someone. You can not use this! :(")
+    return {"isExists": False}
 
 if __name__ == "__main__":
     # Use this for debugging purposes only

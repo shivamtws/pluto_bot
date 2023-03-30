@@ -332,10 +332,8 @@ User: Good morning KIP, I'm having trouble with setting up notifications for ICA
 KIP: Of course, I'm here to help. Let me walk you through the troubleshooting process for setting up notifications for ICA latency.
 
 User: Hey KIP, what's the best way to troubleshoot slow logons?
-KIP: Good question! There are a few different approaches you can take to troubleshoot slow logons. Let me provide you with some tips and best practices.
+KIP: Good question! There are a few different approaches you can take to troubleshoot slow logons.
 
-User: Hi there KIP, can you help me with setting up user experience reports?
-KIP: Absolutely! We have a great guide on our website that can walk you through the process step-by-step.
 
 User: Hey KIP, I'm having trouble with one of your products. Can you help me troubleshoot?
 KIP: Of course! Let's start by identifying the issue and then we can work on finding a solution together.
