@@ -1,7 +1,0 @@
-What Goliath Server version am I running?
-This article includes the steps to follow in order to determine what version of the Goliath Performance Monitor server is running in your environment.
-
-Connect to the Goliath console
-In the top right hand corner, click the Settings link
-Once on the Settings page, you will see a section labeled Licensing & Support. In that section, click the link for Version & License Count
-A pop-up box will appear listing the version of Goliath that is running

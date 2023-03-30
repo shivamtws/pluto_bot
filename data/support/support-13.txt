@@ -1,2 +1,0 @@
-Can the agent be installed via SCCM?
-Yes, the Goliath agent can indeed be installed via SCCM and other automation tools. Please reference article Silent Agent Installation/Update for full details.

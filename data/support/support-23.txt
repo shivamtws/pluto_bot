@@ -1,6 +1,0 @@
-How is interaction time determined in the End User Productivity Report?
-To determine end user activity and inactivity, Goliath analyzes end user experience metrics and applies proprietary calculations to determine user interaction over the course of a session. The parameters used to determine interaction can be adjusted to better represent user's activity in each customer environment by modifying configuration file. For more information on making these adjustment, refer to the article, How do I adjust end user activity collection.
-
-Understanding interaction and inactivity is subject to each specific work environment. There may be cases where low activity and low % Interaction is expected because users may perform their work outside of the Citrix environment, or within the Citrix environment but with low interaction, (when participating in an online course, for example). In other cases, users may report high interaction, near 100%, because they do all of their work in a specific Citrix published application, (for example a support person working in Zendesk).
-
-Note: When % Interaction and other values are displayed as N/A this indicates the required end user session metrics were not available for the session. Refer to the following FAQ for details: Why is my interaction time N/A?.

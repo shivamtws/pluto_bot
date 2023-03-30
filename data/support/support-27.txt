@@ -1,6 +1,0 @@
-Why is my logon duration reported as 0 seconds?
-In some cases, if the log on duration value is not returned (when querying the Citrix service via ODATA), the GPM interface will display 0 seconds as the value.
-
-This can be misleading as the data is not available and is not in fact 0 seconds. On the next refresh when the data is available, it will be recorded and reported in the interface.
-
-This is a known issue and will be addressed in a future release.

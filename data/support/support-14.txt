@@ -1,4 +1,0 @@
-What machine name is display in inventory? Vmware VM name or Hostname?
-Question: I am currently monitoring Vmware Hypervisor. When on the Configure>Inventory page of the technology, is the machine name displayed as it is in vCenter or is it the actual hostname of the machine?
-
-Answer: Goliath will show the machine listed as it is in VMware. For example, if the machine name in Vmware is "PRD.TEST123" and the machines actual hostname if "TEST123", the machine will be listed in Goliath as "PRD.TEST123"

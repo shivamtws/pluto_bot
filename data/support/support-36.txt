@@ -1,2 +1,0 @@
-Do you support 2 Factor Authentication?
-The Goliath Application Availability Monitor supports 2 factor authentication in the form of a static token. If you are unable to create a static token for the Goliath user, the other option would be to disable/bypass 2 factor authentication for the Goliath User or the Goliath Launch Endpoint, based on your configuration. 

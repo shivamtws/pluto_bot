@@ -1,4 +1,0 @@
-Why is device type blank?
-The Citrix XenApp & XenDesktop Client Report allows admins to view details on how end users are connecting to Citrix. The information provided includes Client Name, Client Address, Device Type, and more. 
-
-If there is no data for the metric "Device Type", this means that there was not a connected Goliath Intelligent Agent on the XenApp Server/VDI during the course of the end users sessions. In the search bar above, enter the term "agent" for articles on how to install the Goliath Intelligent Agent.

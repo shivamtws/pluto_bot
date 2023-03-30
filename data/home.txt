@@ -77,18 +77,6 @@ THE HEALTH IT STANDARD: SEE HOW THOUSANDS OF HEALTHCARE FACILITIES USE GOLIATH T
 END-USER EXPERIENCE MONITORING & TROUBLESHOOTING Industry leading end-user experience monitoring and troubleshooting software, with embedded intelligence and automation, that enables IT pros to anticipate, troubleshoot, and document performance issues regardless of where workloads, applications, or users are located.
 
 
-“Using Goliath is like adding a full-time team of Citrix troubleshooting experts working 24/7/365 to prevent and resolve end-user experience issues.”
-
-Trusted by leading organizations around the world
-
-“I use Goliath daily to quickly troubleshoot and resolve end-user complaints around slow logons and poor performance with Cerner applications delivered via Citrix. What had previously taken me hours to hunt down the root cause, now takes me minutes with Goliath.” Greg Beck, System AdministratorCGH Medical Center
-
-“Our Level 1 Service Desk supports all of our Citrix managed services clients. With Goliath, the team resolves 9 out of 10 performance issues, avoiding escalations to our Level 3 Citrix architects.” Mark Gigliotti, CIOTerralogic
-
-“We selected Goliath Technologies because their end-user experience monitoring and management supports Cerner and identifies systems degrading before physicians are impacted. We do over 15,000 Cerner application test launches per day. This early warning system coupled with enhanced performance data and analysis puts us in a better position to collaborate with Cerner to resolve issues.” Mike Nelson, Sr. VP, Strategic ServicesUniversal Health Services
-
-“Goliath provides end-to-end visibility across the entire Citrix delivery infrastructure and enables us to quickly isolate the root cause of performance issues, identifying who in IT can help resolve the issue quickly.” Vitaly Petrovsky, Manager of Enterprise ApplicationsMaimonides Medical Center
-
   HOW GOLIATH WORKS Goliath provides actual user experience from the end users perspective. Traditional approaches look at the independent performance of IT infrastructure and applications. This means they must infer end user experience and that causes unproductive communication and increases time to resolution.
 
 Built for troubleshooting

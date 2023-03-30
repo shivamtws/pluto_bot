@@ -1,2 +1,0 @@
-What does the "Version" column mean on the Citrix Virtual Apps & Desktops displays?
-When looking at the Views - Citrix Virtual Apps and Desktops page of Goliath Performance Monitor, on the Published Apps & Desktops and Virtual Desktops tabs of the display, there is a column labeled Version. The Version column is displaying what version of Citrix Receiver or Workspace app is installed on the end users client machine. 

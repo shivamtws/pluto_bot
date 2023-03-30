@@ -1,4 +1,0 @@
-Will an expired License Key break the technology?
-Question: I haven't put my new license key into the technology yet and it is running on an expired license key. Will an expired key break the technology?
-
-Answer: When a license key expires, GPM continues to run, so the user can apply an updated license key, for example. However, all monitoring is disabled and agent connections are inhibited.

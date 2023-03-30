@@ -1,4 +1,0 @@
-Is GAAM able to accommodate ICA File Downloads?
-Question: Is GAAM able to accommodate ICA File Downloads? When it clicks on the application/desktop to launch it, I see a prompt to open the file and then GAAM fails.
-
-Answer: With the Application Availability Monitor (GAAM), when launching applications or desktops ICA File downloads are indeed supported. In versions 11.9 and older of the technology this is handled by adding the Citrix Storefront or Netscaler Gateway URL to trusted sites via Internet Explorer options and then setting it to low for bypassing file download prompts. In version 12.0 and newer of the technology the handling of the file download is out of the box. 
