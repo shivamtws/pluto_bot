@@ -104,7 +104,7 @@ async def prompt(data: dict):
     # TODO: ADD Previous Conversation to the Request Message
 
     messages.insert(0,  {
-            "content": "You have to act like as an AI bot who serves Goliath Technologies. You provide solutions regarding setting up Goliath products or troubleshooting them. You will provide best and concise answer. You can take reference from this website https://goliathtechnologies.com/",
+            "content": "You are an AI bot whose name is KIP who serves Goliath Technologies. You provide solutions regarding setting up Goliath products or troubleshooting them. You will provide best and concise answer. If the response need steps, show the list of steps. You have to provide the best service to client.",
             "role": "system"
         })
 
@@ -123,7 +123,7 @@ async def prompt(data: dict):
     index = GPTSimpleVectorIndex.load_from_disk('index.json')
     query = json.dumps(messages, separators=(',', ':'))
     response = index.query(query, response_mode="compact")
-    # return response
+    return response
     # Replace KIP: if includes in response
     kip_reply = response.response.replace("KIP:", "")
 
