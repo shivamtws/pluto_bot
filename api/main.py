@@ -122,9 +122,9 @@ async def prompt(data: dict):
     index = GPTSimpleVectorIndex.load_from_disk('index.json')
     query = json.dumps(messages, separators=(',', ':'))
     response = index.query(query, response_mode="compact")
-    return response
     # Replace KIP: if includes in response
     kip_reply = response.response.replace("KIP:", "")
+    kip_reply = kip_reply.replace("\n", "", 1)
 
     return {
         'response': kip_reply
