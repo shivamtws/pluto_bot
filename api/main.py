@@ -132,23 +132,39 @@ async def prompt(data: dict):
 
 
 @app.get("/check-user")
-def check_insta_user(username: str):
-    tm = time.time()
-    url = f"https://www.instagram.com/{username}?t="+str(int(tm))
-    response = requests.get(url)
-    print(response.status_code)
-    soup = BeautifulSoup(response.content, "html.parser")
-    body = str(soup.find("body"))
-    # Open a file for writing
-    with open(username+".txt", "w") as file:
-        # Write the string to the file
-        file.write(body)
+def check_insta_user(username: str, platform: str):
+    proxies = {
+        "proxy": "http://scraperapi:d3a0f7f2cc90ecb7760a950d90d36000@proxy-server.scraperapi.com:8001",
+        "http": "http://scraperapi:d3a0f7f2cc90ecb7760a950d90d36000@proxy-server.scraperapi.com:8002"
+    }
 
-    if body is not None and (body.count('"meta":{"title":" ') ==1 or  body.count('"meta":{"title":null') ==1) :
-        print("This Username Available and you can use it! :)")
-        return {"isExists": True}
-    print("This Username has already been taken by someone. You can not use this! :(")
-    return {"isExists": False}
+    if platform == 'instagram':    
+        r = requests.get('https://www.instagram.com/'+username, proxies=proxies, verify=False)
+        if r.text.count('"meta":{"title":null') == 1 or r.text.count('"meta":{"title":" ') == 1:
+            # It does not exist in Instagram
+            return {'isExist': False}
+        else:
+            return {'isExist': True}
+        
+    elif platform == 'facebook':
+        r = requests.get('https://www.facebook.com/'+username, proxies=proxies, verify=False)
+        # print(r.text)
+        if r.text.count('"userID":') >= 1:
+            return {'isExist': True}
+        else:
+            # It does not exist in Facebook
+            return {'isExist': False}
+    elif platform == 'tiktok':
+        r = requests.get('https://www.tiktok.com/@'+username, proxies=proxies, verify=False)
+        if r.text.count("Couldn't find this account") >= 1:
+            # It does not exist in Tiktok
+            return {'isExist': False}
+        else:
+            return {'isExist': True}
+        
+    return {
+        'error': 'Platform or Username not found!'
+    }
 
 if __name__ == "__main__":
     # Use this for debugging purposes only
